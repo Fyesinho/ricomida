@@ -3,6 +3,7 @@
 }
 .noliststyle{
     list-style: none;
+    padding-inline-start: unset;
 }
 .red{
     background-color: #C4082B;
