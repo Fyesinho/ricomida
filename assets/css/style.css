@@ -1,0 +1,65 @@
+.lobster{
+    font-family: 'Lobster', cursive;
+}
+.noliststyle{
+    list-style: none;
+}
+.red{
+    background-color: #C4082B;
+}
+@media (max-width: 400px){
+    .display-none{
+        display: none;
+    }
+    h1{
+        font-size: 1.5rem;
+        text-align: center;
+        margin-top: 0.6em;
+    }
+    .centersm{
+        text-align: center;
+    }
+
+    .margin1{
+        font-size: 0.6em;
+    
+
+    }
+    .margin2{
+        font-size: 0.6em;
+        margin-left: auto;
+    }
+    .centerbutton{
+        margin: 0 auto;
+    }
+
+    
+}
+@media (min-width: 401px){
+    h1{
+        font-size: 3.5rem;
+    }
+    .heroh3{
+        display: none;
+    }
+    .centersm{
+        text-align: left;
+    }
+    .margin1{
+        margin-right: 2em;
+        margin-left: 0;
+    }
+    .margin2{
+        margin-left: 2em;
+    }
+
+}
+
+
+.carousel-indicators li {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+
+}
+
