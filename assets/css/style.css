@@ -23,8 +23,6 @@
 
     .margin1{
         font-size: 0.6em;
-
-
     }
     .margin2{
         font-size: 0.6em;
@@ -33,8 +31,6 @@
     .centerbutton{
         margin: 0 auto;
     }
-
-
 }
 @media (min-width: 401px){
     h1{
@@ -53,7 +49,6 @@
     .margin2{
         margin-left: 2em;
     }
-
 }
 
 .carousel-indicators {
@@ -66,4 +61,3 @@
     border-radius: 50%;
     background-color: red;
 }
-
