@@ -22,7 +22,7 @@
 
     .margin1{
         font-size: 0.6em;
-    
+
 
     }
     .margin2{
@@ -33,7 +33,7 @@
         margin: 0 auto;
     }
 
-    
+
 }
 @media (min-width: 401px){
     h1{
@@ -55,6 +55,9 @@
 
 }
 
+.carousel-indicators {
+    bottom: -60px;
+}
 
 .carousel-indicators li {
     width: 20px;
